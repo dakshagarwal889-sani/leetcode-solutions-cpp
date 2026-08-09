@@ -21,11 +21,11 @@ This repository contains my **C++ solutions to LeetCode problems**, organized by
 
 | Topic         | Solved |
 | ------------- | ------ |
-| Arrays        | 0      |
-| Binary Search | 0      |
-| Graphs        | 0      |
-| Greedy        | 0      |
-| Trees         | 0      |
+| Arrays        | 89      |
+| Binary Search | 21      |
+| Graphs        | 35      |
+| Greedy        | 10      |
+| Trees         | 12      |
 
 ---
 
