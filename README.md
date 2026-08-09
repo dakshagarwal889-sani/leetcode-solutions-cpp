@@ -49,3 +49,4 @@ This repository contains my **C++ solutions to LeetCode problems**, organized by
 ### Profiles
 
 * **GitHub:** https://github.com/dakshagarwal889-sani
+* **LeetCode:** https://leetcode.com/u/daksh_agarwal123/
