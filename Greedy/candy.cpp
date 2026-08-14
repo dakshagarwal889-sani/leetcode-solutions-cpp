@@ -1,4 +1,11 @@
+/*
+LeetCode 135 - Candy
+Topic: Greedy,Array
+Approach: Two-pass greedy
 
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
 class Solution {
 public:
     int candy(vector<int>& ratings) {
