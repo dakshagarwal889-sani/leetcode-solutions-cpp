@@ -1,5 +1,10 @@
-// LeetCode - 
+/*
+LeetCode 210 - Course Scedule 2
+Topic: Cycle Detection, Topological sort
 
+Time Complexity: O(m + n)
+Space Complexity: O(m + n)
+*/
 class Solution {
     private:
     bool dfs(int node,vector<vector<int>> &adj,vector<int> &vis,stack<int> &st,vector<int> &pathVis){
