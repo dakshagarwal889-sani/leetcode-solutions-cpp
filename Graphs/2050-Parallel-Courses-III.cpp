@@ -1,5 +1,13 @@
+/*
+LeetCode 2050 - Parallel Courses III.
+Topic: Kahn's Algorithm, BFS
+Handled 1-indexed to 0-indexed graph conversion.
 
+Optimized space and time by tracking the global maximum time dynamically during the BFS traversal instead of a separate final pass.
 
+Time Complexity: O(V+E)
+Space Complexity: O(V+E)
+*/
 class Solution {
 public:
     int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
