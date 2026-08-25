@@ -1,4 +1,17 @@
+/*
+LeetCode 787 - Cheapest Flights Within K Stops
+Topic: Graphs
+Approach: Breadth-First Search (BFS)
+Time Complexity: O(E * k)
+Space Complexity: O(V + E)
 
+Where:
+V - Number of Vertices (Cities)
+E - Number of Edges (Flights)
+k - Maximum number of stops allowed
+
+Replaced the usual Priority Queue used in Dijkstra' Algorithm with normal queue which helps to reduce the time complexity.
+*/
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
