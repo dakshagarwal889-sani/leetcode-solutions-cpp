@@ -1,4 +1,10 @@
+/*
+LeetCode 1976 - Number of Ways to Arrive at Destination.
+Topic: Dijkstra's Algorithm, BFS
 
+Time Complexity: O(ElogV)
+Space Complexity: O(V+E)
+*/
 class Solution {
 public:
     int countPaths(int n, vector<vector<int>>& roads) {
