@@ -1,5 +1,19 @@
+/*
+LeetCode 1254 - Number of Closed Islands
+Topic: Graphs
+Approach: DFS
+Time Complexity: O(M * N)
+Space Complexity: O(M * N)
 
+Where:
+M = number of rows in the grid
+N = number of columns in the grid
+*/
 
+/* 
+    Very similar to Number of Islands
+    It can be a prerequisite for this problem
+*/
 
 class Solution {
 public:
